@@ -1,0 +1,2 @@
+def letterlocate(string):
+    

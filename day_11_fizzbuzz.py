@@ -1,0 +1,4 @@
+
+
+def fizzybuzzy(n):
+    
